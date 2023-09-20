@@ -1,7 +1,7 @@
 # AuroraClient
-I do not Recommend to use this Client. Why? Because the Implementation is **Really Bad**, and the Client can/will Crash at Random which is Really Bad because of how often it Happens. So yea.
+I do not recommend using this client because it has a poor implementation and tends to crash randomly, which is a frequent occurrence.
 
-This Client will **not** Receive any Updates from me, because i currently work on a New Project [`Negative Client`](https://github.com/David-xF/NegativeClient). (If it says not Found then it's still in Progress.)
+This client will not receive any updates from me because I am currently working on a new project. [`Negative Client`](https://github.com/David-xF/NegativeClient). (If it says "Not Found," then it means that the project is still in progress.)
 
 [Discord Server](https://discord.com/invite/xumaYBBhJv).
 
