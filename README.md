@@ -12,4 +12,4 @@ Client Name: `Skailed`
 
 Designer: `denizdenizdenizdeniz`, `leonas.`
 
-Additional: [`Miku666`](https://github.com/NessieHax), [`Syoch`](https://github.com/syoch)
+Additional: [`Miku666`](https://github.com/NessieHax), [`Syoch`](https://github.com/syoch), `Tex`, `PureClient`
